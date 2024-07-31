@@ -1,0 +1,44 @@
+{
+    "info": {
+        "description": "my-project-name"
+    },
+    "images": [
+        {
+            "id": 1,
+            "width": 3786,
+            "height": 13716,
+            "file_name": "03248-42.jpg"
+        }
+    ],
+    "annotations": [],
+    "categories": [
+        {
+            "id": 1,
+            "name": "default"
+        },
+        {
+            "id": 2,
+            "name": "text"
+        },
+        {
+            "id": 3,
+            "name": "Title"
+        },
+        {
+            "id": 4,
+            "name": "SteleArea"
+        },
+        {
+            "id": 5,
+            "name": "Commentary"
+        },
+        {
+            "id": 6,
+            "name": "Numbering"
+        },
+        {
+            "id": 7,
+            "name": "Intext"
+        }
+    ]
+}
